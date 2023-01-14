@@ -19,16 +19,19 @@ c) 3d plot (Axes3D)
 
 3.Description of Design
 a) Choropleth (map plot)
- 
+![1](https://user-images.githubusercontent.com/102940480/212443953-7cd956fa-7df1-4364-b5ba-fe62b937ae52.png)
+
 Figure 1Choropleth map
 Figure1 shows a total athlete number by countries overall, by choosing the year it will show the summary for that year. Map is the most straight forward technique to show the overall state for the world, and have a rough image about a country is the participate number consider high or low, and changes overtime. However, this technique is weak on showing connections between the features.
 
 b) Histogram
- 
+ ![2](https://user-images.githubusercontent.com/102940480/212443956-256d4919-19ba-43a2-bef5-342ada055707.png)
+
 Figure 2 Sports histogram by country
 Figure2 shows athletes number by teams, by choosing one sport or a certain year. This plot shows the preference for athletes in one country by total and by certain year. By comparing the data, we will be able to know the changes overtime for one country participate in one sport or we can compare between the countries we select, if their athletes are increasing or decreasing overtime in some sports. 
 c) 3d plot
- 
+ ![3](https://user-images.githubusercontent.com/102940480/212443959-db4a5102-e670-49fb-b444-27ff31401523.png)
+
 Figure 3 Comparison 3D plot
 Figure3 shows the relationships between how much medals got in history and athlete’s age, weight and height by country. In this plot we can see a country that has athletes in younger ages with high height and light weight are more likely to get more medals. However, this technique could be lack of details since the gap in total medals between countries are large so that the difference is not evidently identify.
 
